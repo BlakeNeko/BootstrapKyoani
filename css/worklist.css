@@ -1,0 +1,11 @@
+#detaillist {
+    position: relative;
+    height: 800px;
+    overflow-y: scroll;
+}
+
+@media screen and (max-width: 768px) {
+    #worklist {
+        display: none;
+    }
+}

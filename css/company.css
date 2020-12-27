@@ -1,0 +1,11 @@
+h3 {
+    border-bottom: 3px dotted #e6521e;
+}
+
+hr {
+    border: 1px dotted #cccccc;
+}
+
+.dot {
+    border-bottom: 2px dotted #eeeeee;
+}

@@ -1,0 +1,27 @@
+.btn-outline-kyoto {
+    color: #e64418;
+    border-color: #e64418;
+}
+
+.btn-outline-kyoto:hover {
+    color: #fff;
+    background-color: #e64418;
+    border-color: #e64418;
+}
+
+.btn-outline-kyoto:focus,
+.btn-outline-kyoto.focus {
+    box-shadow: 0 0 0 0.2rem rgba(230, 68, 24, 0.5);
+}
+
+#title1 {
+    border-bottom: 3px solid #649ecc !important;
+}
+
+#title2 {
+    border-bottom: 3px solid #75cc72 !important;
+}
+
+#title3 {
+    border-bottom: 3px solid #cc5231 !important;
+}
